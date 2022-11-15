@@ -1,0 +1,59 @@
+{
+    "created vegetables": [{
+        "daysBetweenWatering": 9,
+        "daysSinceLastWatered": 9,
+        "type": "fajh"
+    }],
+    "garden": [
+        {
+            "daysBetweenWatering": 1,
+            "daysSinceLastWatered": 1,
+            "type": " "
+        },
+        {
+            "daysBetweenWatering": 1,
+            "daysSinceLastWatered": 1,
+            "type": " "
+        },
+        {
+            "daysBetweenWatering": 9,
+            "daysSinceLastWatered": 9,
+            "type": "fajh"
+        },
+        {
+            "daysBetweenWatering": 1,
+            "daysSinceLastWatered": 1,
+            "type": " "
+        },
+        {
+            "daysBetweenWatering": 1,
+            "daysSinceLastWatered": 1,
+            "type": " "
+        },
+        {
+            "daysBetweenWatering": 1,
+            "daysSinceLastWatered": 1,
+            "type": " "
+        },
+        {
+            "daysBetweenWatering": 1,
+            "daysSinceLastWatered": 1,
+            "type": " "
+        },
+        {
+            "daysBetweenWatering": 1,
+            "daysSinceLastWatered": 1,
+            "type": " "
+        },
+        {
+            "daysBetweenWatering": 1,
+            "daysSinceLastWatered": 1,
+            "type": " "
+        },
+        {
+            "daysBetweenWatering": 1,
+            "daysSinceLastWatered": 1,
+            "type": " "
+        }
+    ]
+}
